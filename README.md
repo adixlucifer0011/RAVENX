@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Building+ideas+into+software;Automation+%7C+APIs+%7C+Systems;Create.+Experiment.+Improve." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF3131&center=true&vCenter=true&width=700&lines=Building+ideas+into+software;Automation+%7C+APIs+%7C+Systems;Continuous+Learning+%7C+Experimentation" alt="Typing SVG" />
 
 <br><br>
 
@@ -56,18 +56,18 @@ it through experimentation.
 
 <div align="center">
 
+<h2>🤖 DC-Bot</h2>
+
+<p>JavaScript • Node.js • APIs</p>
+
+<p>
+A Discord bot project created and developed by Raven.
+</p>
+
+<br>
+
 <a href="https://github.com/adixlucifer0011/DC-Bot">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=adixlucifer0011&repo=DC-Bot&theme=dark&hide_border=true&bg_color=050505&title_color=FF3131&text_color=FFFFFF&icon_color=FF3131" />
-
-</a>
-
-<br><br>
-
-<a href="https://github.com/adixlucifer0011/DC-Bot">
-
-<img src="https://img.shields.io/badge/EXPLORE_PROJECT-FF3131?style=for-the-badge&logo=github&logoColor=white" />
-
+<img src="https://img.shields.io/badge/VIEW_PROJECT-FF3131?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -80,7 +80,8 @@ it through experimentation.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=adixlucifer0011&show_icons=true&hide_border=true&bg_color=050505&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF" />
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
 
 </div>
 
